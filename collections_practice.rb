@@ -14,6 +14,9 @@
 
 
 def begins_with_r(tools)
+tools.selct 
+
+
 if tools.start_with? "r"
   return true 
 end 
