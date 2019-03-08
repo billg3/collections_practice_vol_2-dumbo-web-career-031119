@@ -18,8 +18,7 @@ tools.each do |tool|
   if tools.start_with?('r')
 return true 
 
-if tools.start_with? "r"
-  return true 
+
 end 
 end 
   
