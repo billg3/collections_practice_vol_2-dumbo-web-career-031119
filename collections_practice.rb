@@ -13,4 +13,5 @@
 #  end
 
 
-de begins_with_r()
+def begins_with_r(tools)
+if 
