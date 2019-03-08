@@ -13,8 +13,8 @@
 #  end
 
 
-def begins_with_r(tools)
-tools.each do |tool| 
+def begins_with_r(array)
+array.each do |tool| 
   if tools.start_with?('r')
 return true 
 
