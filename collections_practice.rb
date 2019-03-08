@@ -14,7 +14,7 @@
 
 
 def begins_with_r(tools)
-tools.selct {|r| 
+tools.selct {|tool| tool
 
 
 if tools.start_with? "r"
