@@ -14,4 +14,9 @@
 
 
 def begins_with_r(tools)
-if tools
+if tools.start_with? "r"
+  return true 
+end 
+end 
+  
+  
